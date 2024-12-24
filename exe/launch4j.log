@@ -1,0 +1,23 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\ADMIN\Desktop\UbongoJunior.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\ADMIN\Desktop\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin\java.exe
+Substitute:	PATH = C:\Program Files\Java\jdk-21\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\ADMIN\Desktop\code\python\py\Scripts\;C:\Users\ADMIN\Desktop\code\python\py\;C:\Users\ADMIN\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\ADMIN\AppData\Local\Programs\Python\Python310\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\libnvvp;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\MinGW\bin;C:\Program Files\dotnet\;C:\Program Files\R\R-4.3.1\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\CMake\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;C:\Users\ADMIN\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Co;C:\Program Files\Tesseract-OCR;C:\Program Files\R\R-4.3.1\bin;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Java\jre-1.8\bin;;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin\java.exe;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\ADMIN\Desktop\code\python\py\Scripts\;C:\Users\ADMIN\Desktop\code\python\py\;C:\Users\ADMIN\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\ADMIN\AppData\Local\Programs\Python\Python310\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\libnvvp;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\MinGW\bin;C:\Program Files\dotnet\;C:\Program Files\R\R-4.3.1\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\CMake\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;C:\Users\ADMIN\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Co;C:\Program Files\Tesseract-OCR;C:\Program Files\R\R-4.3.1\bin;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Java\jre-1.8\bin;;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\java.exe\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Main class:	C:\Users\ADMIN\Desktop\code\Ubungo\UbongoJunior\src\Game\StartFrame.java
+Add classpath:	C:\Users\ADMIN\Desktop\code\Ubungo\UbongoJunior\dist\lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\ADMIN\Desktop\UbongoJunior.exe;C:\Users\ADMIN\Desktop\code\Ubungo\UbongoJunior\dist\lib\AbsoluteLayout.jar" C:\Users\ADMIN\Desktop\code\Ubungo\UbongoJunior\src\Game\StartFrame.java
+Args length:	201/32768 chars
+Exit code:	0
